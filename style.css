@@ -1,0 +1,66 @@
+ul{
+	list-style-type:none;
+}
+
+ul li{
+	display: inline;
+}
+
+ul li a{
+	text-decoration:none;
+	margin-right: 20px;
+}
+
+
+#addEmp{
+	
+	height: 500px;
+	width: 80%;
+	padding:50px;
+}
+
+form{
+	border:1px solid green;
+	padding:20px;
+	width: 350px;
+	border-radius: 30px 30px;
+}
+
+label{
+	display:block;
+}
+
+/* for fetching images */
+#fetch_img{
+	height:50px;
+	width:80px;
+}
+
+
+.msgbox{
+	border:1px solid #58CBB9;
+	background-color: #fff;
+	margin:150px 0px 0px 400px;
+	padding:20px;
+	opacity: 1;
+	position:fixed;
+	display:none;
+}
+
+/*Frame for pop up box yes or no*/
+
+#m{
+	border:1px solid blue;
+	height: 1000px;
+	background-color: black;
+	opacity: .6;
+	position: fixed;
+
+}
+
+#b{
+		border:1px solid greens;
+	background-color: #fff;
+	height: 300px;
+	
+}
